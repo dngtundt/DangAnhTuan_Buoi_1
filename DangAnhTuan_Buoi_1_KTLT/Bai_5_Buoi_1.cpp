@@ -8,4 +8,5 @@ int main()
 	scanf("%d%d%d", &a, &b, &c);
 	d = c / (a - b);
 	printf("Ket qua la: %f", d);
+	return 0;
 }
