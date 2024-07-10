@@ -1,4 +1,5 @@
 ﻿#include <stdio.h>
+#include <conio.h>
 
 int main()
 {
@@ -15,4 +16,5 @@ int main()
 		result = (float)c / (a - b);
 		printf("Ket qua cua phep chia c/(a-b) la: %.2f\n", result);
 	return 0;
+	getch();
 }
