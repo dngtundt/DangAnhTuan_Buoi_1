@@ -1,12 +1,18 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main()
 {
 	int a, b, c;
-	float d;
-	printf("Nhap vao lan luot a, b, c: ");
-	scanf("%d%d%d", &a, &b, &c);
-	d = c / (a - b);
-	printf("Ket qua la: %f", d);
+	float result;
+	do
+	{
+		printf("Nhap vao gia tri cua a, b, c: ");
+		scanf("%d %d %d", &a, &b, &c);
+		if (a == b) {
+			printf("a va b phai khac nhau!\n");
+		}
+	} while (a == b);
+		result = (float)c / (a - b);
+		printf("Ket qua cua phep chia c/(a-b) la: %.2f\n", result);
 	return 0;
 }
