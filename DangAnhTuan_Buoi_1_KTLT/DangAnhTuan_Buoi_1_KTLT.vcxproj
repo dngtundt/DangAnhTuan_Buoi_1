@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="Bai_5_Buoi_1.cpp" />
     <ClCompile Include="Bai_6_Buoi_1.cpp" />
+    <ClCompile Include="Bai_7_Buoi_1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
