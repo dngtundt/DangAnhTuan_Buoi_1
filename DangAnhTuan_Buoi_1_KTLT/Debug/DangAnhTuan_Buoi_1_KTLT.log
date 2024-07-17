@@ -1,9 +1,10 @@
-﻿  Bai_6_Buoi_1.cpp
-  Bai_7_Buoi_1.cpp
+﻿  Bai_7_Buoi_1.cpp
+  Bai_8_Buoi_1.cpp
   Generating Code...
-D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_7_Buoi_1.cpp(18,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'int *'
-D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_7_Buoi_1.cpp(32,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
-D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_7_Buoi_1.cpp(57,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
-D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_7_Buoi_1.cpp(65,16): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
-D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_7_Buoi_1.cpp(116,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_8_Buoi_1.cpp(17,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_8_Buoi_1.cpp(21,26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_8_Buoi_1.cpp(22,27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_8_Buoi_1.cpp(26,27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_8_Buoi_1.cpp(27,28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\dtun coder\BTVN_THKTLT\DangAnhTuan_Buoi_1_KTLT\Bai_8_Buoi_1.cpp(169,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   DangAnhTuan_Buoi_1_KTLT.vcxproj -> D:\dtun coder\BTVN_THKTLT\Debug\DangAnhTuan_Buoi_1_KTLT.exe

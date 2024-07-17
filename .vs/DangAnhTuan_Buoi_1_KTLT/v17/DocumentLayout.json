@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\dtun coder\\BTVN_THKTLT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F6EB38C-4F07-43BB-8DD4-4169862E9C38}|DangAnhTuan_Buoi_1_KTLT\\DangAnhTuan_Buoi_1_KTLT.vcxproj|D:\\dtun coder\\BTVN_THKTLT\\DangAnhTuan_Buoi_1_KTLT\\Bai_8_Buoi_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F6EB38C-4F07-43BB-8DD4-4169862E9C38}|DangAnhTuan_Buoi_1_KTLT\\DangAnhTuan_Buoi_1_KTLT.vcxproj|solutionrelative:DangAnhTuan_Buoi_1_KTLT\\Bai_8_Buoi_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F6EB38C-4F07-43BB-8DD4-4169862E9C38}|DangAnhTuan_Buoi_1_KTLT\\DangAnhTuan_Buoi_1_KTLT.vcxproj|D:\\dtun coder\\BTVN_THKTLT\\DangAnhTuan_Buoi_1_KTLT\\Bai_7_Buoi_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8F6EB38C-4F07-43BB-8DD4-4169862E9C38}|DangAnhTuan_Buoi_1_KTLT\\DangAnhTuan_Buoi_1_KTLT.vcxproj|solutionrelative:DangAnhTuan_Buoi_1_KTLT\\Bai_7_Buoi_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai_8_Buoi_1.cpp",
+              "DocumentMoniker": "D:\\dtun coder\\BTVN_THKTLT\\DangAnhTuan_Buoi_1_KTLT\\Bai_8_Buoi_1.cpp",
+              "RelativeDocumentMoniker": "DangAnhTuan_Buoi_1_KTLT\\Bai_8_Buoi_1.cpp",
+              "ToolTip": "D:\\dtun coder\\BTVN_THKTLT\\DangAnhTuan_Buoi_1_KTLT\\Bai_8_Buoi_1.cpp",
+              "RelativeToolTip": "DangAnhTuan_Buoi_1_KTLT\\Bai_8_Buoi_1.cpp",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAKQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T05:17:07.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Bai_7_Buoi_1.cpp",
               "DocumentMoniker": "D:\\dtun coder\\BTVN_THKTLT\\DangAnhTuan_Buoi_1_KTLT\\Bai_7_Buoi_1.cpp",
               "RelativeDocumentMoniker": "DangAnhTuan_Buoi_1_KTLT\\Bai_7_Buoi_1.cpp",
               "ToolTip": "D:\\dtun coder\\BTVN_THKTLT\\DangAnhTuan_Buoi_1_KTLT\\Bai_7_Buoi_1.cpp",
               "RelativeToolTip": "DangAnhTuan_Buoi_1_KTLT\\Bai_7_Buoi_1.cpp",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAABUAAAAkAAAA",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAkwIcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-17T05:09:42.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Bai_5_Buoi_1.cpp",
               "DocumentMoniker": "D:\\dtun coder\\BTVN_THKTLT\\DangAnhTuan_Buoi_1_KTLT\\Bai_5_Buoi_1.cpp",
               "RelativeDocumentMoniker": "DangAnhTuan_Buoi_1_KTLT\\Bai_5_Buoi_1.cpp",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bai_6_Buoi_1.cpp",
               "DocumentMoniker": "D:\\dtun coder\\BTVN_THKTLT\\DangAnhTuan_Buoi_1_KTLT\\Bai_6_Buoi_1.cpp",
               "RelativeDocumentMoniker": "DangAnhTuan_Buoi_1_KTLT\\Bai_6_Buoi_1.cpp",
@@ -67,8 +84,7 @@
               "RelativeToolTip": "DangAnhTuan_Buoi_1_KTLT\\Bai_6_Buoi_1.cpp",
               "ViewState": "AQIAADEAAAAAAAAAAADwv0cAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-17T04:31:36.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T04:31:36.659Z"
             }
           ]
         }
