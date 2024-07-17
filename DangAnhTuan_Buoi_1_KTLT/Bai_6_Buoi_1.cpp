@@ -50,23 +50,23 @@ void retirement_time(Employee employee) {
         employee.full_name, month, retirement_year);
 }
 
-//int main() {
-//    Employee employee;
-//
-//    printf("input name: ");
-//    fgets(employee.full_name, sizeof(employee.full_name), stdin);
-//    employee.full_name[strcspn(employee.full_name, "\n")] = 0; // del char newline
-//
-//    printf("input date (dd/mm/yyyy): ");
-//    fgets(employee.birth_date, sizeof(employee.birth_date), stdin);
-//    employee.birth_date[strcspn(employee.birth_date, "\n")] = 0; // del char newline
-//
-//    printf("input sex (nam/nữ): ");
-//    fgets(employee.gender, sizeof(employee.gender), stdin);
-//    employee.gender[strcspn(employee.gender, "\n")] = 0; // del char newline
-//
-//    // calculate time retierment
-//    retirement_time(employee);
-//
-//    return 0;
-//}
+int main() {
+    Employee employee;
+
+    printf("input name: ");
+    fgets(employee.full_name, sizeof(employee.full_name), stdin);
+    employee.full_name[strcspn(employee.full_name, "\n")] = 0; // del char newline
+
+    printf("input date (dd/mm/yyyy): ");
+    fgets(employee.birth_date, sizeof(employee.birth_date), stdin);
+    employee.birth_date[strcspn(employee.birth_date, "\n")] = 0; // del char newline
+
+    printf("input sex (nam/nữ): ");
+    fgets(employee.gender, sizeof(employee.gender), stdin);
+    employee.gender[strcspn(employee.gender, "\n")] = 0; // del char newline
+
+    // calculate time retierment
+    retirement_time(employee);
+
+    return 0;
+}
