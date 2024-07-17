@@ -80,6 +80,7 @@
     <ClCompile Include="Bai_6_Buoi_1.cpp" />
     <ClCompile Include="Bai_7_Buoi_1.cpp" />
     <ClCompile Include="Bai_8_Buoi_1.cpp" />
+    <ClCompile Include="Bai_9_Buoi_1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
